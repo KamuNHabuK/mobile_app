@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.s.shopapplication.app-merged_res-4:/layout_activity_checkout.xml.flat",
+        "source": "com.s.shopapplication.app-main-6:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\menu_cart_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\menu\\cart_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\layout_activity_client_info.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\layout\\activity_client_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\layout_activity_products.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\layout\\activity_products.xml"
+    },
+    {
+        "merged": "com.s.shopapplication.app-merged_res-4:/layout_product_item.xml.flat",
+        "source": "com.s.shopapplication.app-main-6:/layout/product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\layout_activity_address.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\layout_product_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\layout\\product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.s.shopapplication.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
