@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="color1">#0968F6</color>
+    <color name="color2">#0A81D1</color>
+    <color name="color3">#0F5298</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="secondary">#0473CA</color>
+    <color name="teal">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ShopApplication</string>
+    <style name="Theme.ShopApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/color2</item>
+        <item name="colorPrimaryVariant">@color/color3</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/teal</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

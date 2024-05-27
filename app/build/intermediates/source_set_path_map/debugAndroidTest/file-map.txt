@@ -1,0 +1,6 @@
+com.s.shopapplication.test.app-androidTest-0 C:\Projects\2024\2024_03\2024_03_31_small_mobile_shop_java\ShopApplication\app\build\generated\res\resValues\androidTest\debug
+com.s.shopapplication.test.app-mergeDebugAndroidTestResources-1 C:\Projects\2024\2024_03\2024_03_31_small_mobile_shop_java\ShopApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.s.shopapplication.test.app-mergeDebugAndroidTestResources-2 C:\Projects\2024\2024_03\2024_03_31_small_mobile_shop_java\ShopApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.s.shopapplication.test.app-merged_res-3 C:\Projects\2024\2024_03\2024_03_31_small_mobile_shop_java\ShopApplication\app\build\intermediates\merged_res\debugAndroidTest
+com.s.shopapplication.test.app-core-1.5.0-4 C:\Users\User\.gradle\caches\transforms-3\866dc26c566afcc7b6955923bf9d6c50\transformed\core-1.5.0\res
+com.s.shopapplication.test.app-annotation-experimental-1.3.0-5 C:\Users\User\.gradle\caches\transforms-3\ce6337605a32ec51e1b7ee02a4194412\transformed\annotation-experimental-1.3.0\res
